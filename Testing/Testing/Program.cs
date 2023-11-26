@@ -42,7 +42,7 @@ public class Testing
         Lisa.surname = "Egorova";
         Lisa.contact = "@japanesepotatos";
 
-        Lisa.outputperson(); //Вывод информации до изменения
+        Lisa.outputperson(; //Вывод информации до изменения
         by_Lisa.output();
 
         Person Somebody = new Person();
