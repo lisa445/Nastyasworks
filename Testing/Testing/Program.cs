@@ -57,6 +57,7 @@ public class Testing
 
         Lisa.outputperson(); //Вывод информации после изменения
         by_Lisa.output();
+        Console.WriteLine("TESTING");
 
         //Конец третьего задания
 
