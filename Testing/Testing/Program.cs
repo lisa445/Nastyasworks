@@ -34,7 +34,7 @@ public class Testing
     public static void Main(string[] args)
     {
         //Инициализация структур и классов
-        Task by_Lisa = new Task("Лабораторная", 1, "12.02.2024", "Создание структуры для лабораторной работы.");
+        akdsdald'l'ld;
         Task by_other_student = new Task("Курсовая", 5, "15.03.2024", "Создание структуры для курсовой работы.");
 
         Person Lisa = new Person();
